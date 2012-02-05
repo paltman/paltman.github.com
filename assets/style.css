@@ -4,13 +4,15 @@ html {
 
 body {
   font-size: 13px;
-  font-family: "Droid Sans Serif","Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Droid Serif","Helvetica Neue", Helvetica, Arial, sans-serif;
   border-top: 10px solid #1B1C1F;
   line-height: 1.4;
   color: #666;
   min-width: 960px;
 }
-
+h1, h2, h3, h4, h5 {
+  font-family: "Droid Sans"
+}
 h1 {
   font-weight: bold;
   font-size: 20px;
