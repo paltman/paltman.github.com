@@ -1,9 +1,11 @@
 html {
-  background: #F7F7F7;
+  background: #EEE;
 }
 
 body {
-  font: 13px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  font-family: "Droid Sans Serif","Helvetica Neue", Helvetica, Arial, sans-serif;
+  border-top: 10px solid #1B1C1F;
   line-height: 1.4;
   color: #666;
   min-width: 960px;
@@ -63,9 +65,9 @@ a:hover {
 
 #logo {
   width: 160px;
-  height: 120px;
-  margin: 15px 0 0 15px;
-  background: url("james_tauber.jpg");
+  height: 188px;
+  margin: 20px auto;
+  background: url("paltman.png");
   text-indent: -99999px;
 }
 
